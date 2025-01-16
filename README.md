@@ -6,7 +6,7 @@
    
    ✔️ TV de 2013 o más reciente
    
-   ✔️ O sintonizador ISDB-T (se consigue en tiendas de electrónicos)
+   ✔️ O sintonizador ISDB-T (consultar en nuestras oficinas)
 
 3. Verificar conexión física:
    

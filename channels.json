@@ -1,0 +1,437 @@
+[
+  {
+    "number": "10.1",
+    "name": "INFO COYSPU",
+    "logo": "logos/LogoCoyspu378.png"
+  },
+  {
+    "number": "10.2",
+    "name": "TN HD",
+    "logo": "logos/tn-todo-noticias-ar.png"
+  },
+  {
+    "number": "10.3",
+    "name": "America 24 HD",
+    "logo": "logos/america-24-hd.png"
+  },
+  {
+    "number": "10.4",
+    "name": "C5N HD",
+    "logo": "logos/c5n-hd.png"
+  },
+  {
+    "number": "10.5",
+    "name": "Cronica TV HD",
+    "logo": "logos/cronica-tv-hd.png"
+  },
+  {
+    "number": "10.6",
+    "name": "LN +",
+    "logo": "logos/ln-plus.png"
+  },
+  {
+    "number": "11.1",
+    "name": "Canal 9 HD",
+    "logo": "logos/canal-9-hd.png"
+  },
+  {
+    "number": "11.2",
+    "name": "Telefe HD",
+    "logo": "logos/telefe-hd.png"
+  },
+  {
+    "number": "11.3",
+    "name": "America HD",
+    "logo": "logos/america-hd.png"
+  },
+  {
+    "number": "11.4",
+    "name": "Canal 13 HD",
+    "logo": "logos/canal-13-hd.png"
+  },
+  {
+    "number": "14.1",
+    "name": "TV Publica HD",
+    "logo": "logos/tv-publica-hd.png"
+  },
+  {
+    "number": "14.2",
+    "name": "Magazine",
+    "logo": "logos/magazine.png"
+  },
+  {
+    "number": "14.3",
+    "name": "Metro",
+    "logo": "logos/metro.png"
+  },
+  {
+    "number": "14.4",
+    "name": "Canal 26 HD",
+    "logo": "logos/canal-26-hd.png"
+  },
+  {
+    "number": "14.5",
+    "name": "TELERED Marcos Juarez",
+    "logo": "logos/telered-marcos-juarez.png"
+  },
+  {
+    "number": "14.6",
+    "name": "ARGENTINISIMA HD",
+    "logo": "logos/argentinisima-hd.png"
+  },
+  {
+    "number": "20.1",
+    "name": "ESPN HD",
+    "logo": "logos/espn-hd.png"
+  },
+  {
+    "number": "20.2",
+    "name": "ESPN 2 HD",
+    "logo": "logos/espn-2-hd.png"
+  },
+  {
+    "number": "20.3",
+    "name": "ESPN 3 HD",
+    "logo": "logos/espn-3-hd.png"
+  },
+  {
+    "number": "20.4",
+    "name": "ESPN 4 HD",
+    "logo": "logos/espn-4-hd.png"
+  },
+  {
+    "number": "21.1",
+    "name": "Fox Sports HD",
+    "logo": "logos/fox-sports-hd.png"
+  },
+  {
+    "number": "21.2",
+    "name": "Fox Sports 2 HD",
+    "logo": "logos/fox-sports-2-hd.png"
+  },
+  {
+    "number": "21.3",
+    "name": "Fox Sports 3 HD",
+    "logo": "logos/fox-sports-3-hd.png"
+  },
+  {
+    "number": "21.4",
+    "name": "TYC SPORTS HD",
+    "logo": "logos/tyc-sports-hd.png"
+  },
+  {
+    "number": "30.1",
+    "name": "Disney HD",
+    "logo": "logos/disney-hd.png"
+  },
+  {
+    "number": "30.2",
+    "name": "Cartoon Network HD",
+    "logo": "logos/cartoon-network-hd.png"
+  },
+  {
+    "number": "30.3",
+    "name": "PAKA PAKA",
+    "logo": "logos/paka-paka.png"
+  },
+  {
+    "number": "30.4",
+    "name": "Nick Jr HD",
+    "logo": "logos/nick-jr-hd.png"
+  },
+  {
+    "number": "30.5",
+    "name": "Nickelodeon HD",
+    "logo": "logos/nickelodeon-hd.png"
+  },
+  {
+    "number": "30.6",
+    "name": "DISCOVERY KIDS HD",
+    "logo": "logos/discovery-kids-hd.png"
+  },
+  {
+    "number": "40.1",
+    "name": "TNT Series HD",
+    "logo": "logos/tnt-series-hd.png"
+  },
+  {
+    "number": "40.2",
+    "name": "TNT HD",
+    "logo": "logos/tnt-hd.png"
+  },
+  {
+    "number": "40.3",
+    "name": "Star Channel HD",
+    "logo": "logos/star-channel-hd.png"
+  },
+  {
+    "number": "40.4",
+    "name": "Sony HD",
+    "logo": "logos/sony-hd.png"
+  },
+  {
+    "number": "40.5",
+    "name": "Warner HD",
+    "logo": "logos/warner-hd.png"
+  },
+  {
+    "number": "41.1",
+    "name": "Universal Channel HD",
+    "logo": "logos/universal-channel-hd.png"
+  },
+  {
+    "number": "41.2",
+    "name": "Studio Universal HD",
+    "logo": "logos/studio-universal-hd.png"
+  },
+  {
+    "number": "41.3",
+    "name": "Cine Premium HD",
+    "logo": "logos/cine-premium-hd.png"
+  },
+  {
+    "number": "41.4",
+    "name": "Paramount HD",
+    "logo": "logos/paramount-hd.png"
+  },
+  {
+    "number": "41.5",
+    "name": "AXN HD",
+    "logo": "logos/axn-hd.png"
+  },
+  {
+    "number": "41.6",
+    "name": "Cinemax HD",
+    "logo": "logos/cinemax-hd.png"
+  },
+  {
+    "number": "42.1",
+    "name": "Cinecanal HD",
+    "logo": "logos/cinecanal-hd.png"
+  },
+  {
+    "number": "42.2",
+    "name": "Golden Premier HD",
+    "logo": "logos/golden-premier-hd.png"
+  },
+  {
+    "number": "42.3",
+    "name": "Golden Edge HD",
+    "logo": "logos/golden-edge-hd.png"
+  },
+  {
+    "number": "42.4",
+    "name": "AMC HD",
+    "logo": "logos/amc-hd.png"
+  },
+  {
+    "number": "42.5",
+    "name": "DHE HD",
+    "logo": "logos/dhe-hd.png"
+  },
+  {
+    "number": "42.6",
+    "name": "Europa Europa HD",
+    "logo": "logos/europa-europa-hd.png"
+  },
+  {
+    "number": "43.1",
+    "name": "Film & Arts HD",
+    "logo": "logos/film-arts-hd.png"
+  },
+  {
+    "number": "43.2",
+    "name": "USA NETWORK HD",
+    "logo": "logos/usa-network-hd.png"
+  },
+  {
+    "number": "43.3",
+    "name": "Space HD",
+    "logo": "logos/space-hd.png"
+  },
+  {
+    "number": "43.4",
+    "name": "COMEDY CENTRAL HD",
+    "logo": "logos/comedy-central-hd.png"
+  },
+  {
+    "number": "43.5",
+    "name": "FX HD",
+    "logo": "logos/fx-hd.png"
+  },
+  {
+    "number": "43.6",
+    "name": "CINE FAMILIAR HD",
+    "logo": "logos/cine-familiar-hd.png"
+  },
+  {
+    "number": "50.1",
+    "name": "HGTV HD",
+    "logo": "logos/hgtv-hd.png"
+  },
+  {
+    "number": "50.2",
+    "name": "E! HD",
+    "logo": "logos/e-hd.png"
+  },
+  {
+    "number": "50.3",
+    "name": "A&E HD",
+    "logo": "logos/a-e-hd.png"
+  },
+  {
+    "number": "50.4",
+    "name": "Gourmet HD",
+    "logo": "logos/gourmet-hd.png"
+  },
+  {
+    "number": "50.5",
+    "name": "Food Network HD",
+    "logo": "logos/food-network-hd.png"
+  },
+  {
+    "number": "50.6",
+    "name": "Mas chic HD",
+    "logo": "logos/mas-chic-hd.png"
+  },
+  {
+    "number": "50.7",
+    "name": "Home & Health HD",
+    "logo": "logos/home-health-hd.png"
+  },
+  {
+    "number": "50.8",
+    "name": "Canal A",
+    "logo": "logos/canal-a.png"
+  },
+  {
+    "number": "60.1",
+    "name": "Animal Planet HD",
+    "logo": "logos/animal-planet-hd.png"
+  },
+  {
+    "number": "60.2",
+    "name": "Nat Geo HD",
+    "logo": "logos/nat-geo-hd.png"
+  },
+  {
+    "number": "60.3",
+    "name": "Discovery Channel HD",
+    "logo": "logos/discovery-channel-hd.png"
+  },
+  {
+    "number": "60.4",
+    "name": "DISCOVERY SCIENCE HD",
+    "logo": "logos/discovery-science-hd.png"
+  },
+  {
+    "number": "61.1",
+    "name": "DISCOVERY THEATER HD",
+    "logo": "logos/discovery-theater-hd.png"
+  },
+  {
+    "number": "61.2",
+    "name": "DISCOVERY WORLD HD",
+    "logo": "logos/discovery-world-hd.png"
+  },
+  {
+    "number": "61.3",
+    "name": "History HD",
+    "logo": "logos/history-hd.png"
+  },
+  {
+    "number": "61.4",
+    "name": "History 2 HD",
+    "logo": "logos/history-2-hd.png"
+  },
+  {
+    "number": "61.5",
+    "name": "Sun Channel HD",
+    "logo": "logos/sun-channel-hd.png"
+  },
+  {
+    "number": "61.6",
+    "name": "Love Nature HD",
+    "logo": "logos/love-nature-hd.png"
+  },
+  {
+    "number": "23.1",
+    "name": "America Sports",
+    "logo": "logos/america-sports.png"
+  },
+  {
+    "number": "23.2",
+    "name": "DEPORTV HD",
+    "logo": "logos/deportv-hd.png"
+  },
+  {
+    "number": "23.3",
+    "name": "MTV Live HD",
+    "logo": "logos/mtv-live-hd.png"
+  },
+  {
+    "number": "23.4",
+    "name": "Quiero Musica HD",
+    "logo": "logos/quiero-musica-hd.png"
+  },
+  {
+    "number": "23.5",
+    "name": "Allegro HD",
+    "logo": "logos/allegro-hd.png"
+  },
+  {
+    "number": "13.1",
+    "name": "CANAL 8 CBA",
+    "logo": "logos/canal-8-cba.png"
+  },
+  {
+    "number": "13.2",
+    "name": "CANAL 10 CBA",
+    "logo": "logos/canal-10-cba.png"
+  },
+  {
+    "number": "13.3",
+    "name": "CANAL 12 CBA",
+    "logo": "logos/canal-12-cba.png"
+  },
+  {
+    "number": "13.4",
+    "name": "Chacra TV",
+    "logo": "logos/chacra-tv.png"
+  },
+  {
+    "number": "13.5",
+    "name": "Canal Rural",
+    "logo": "logos/canal-rural.png"
+  },
+  {
+    "number": "44.1",
+    "name": "Volver",
+    "logo": "logos/volver.png"
+  },
+  {
+    "number": "44.2",
+    "name": "RAI ITALIA",
+    "logo": "logos/rai-italia.png"
+  },
+  {
+    "number": "44.3",
+    "name": "TVE HD",
+    "logo": "logos/tve-hd.png"
+  },
+  {
+    "number": "70.1",
+    "name": "EWTN",
+    "logo": "logos/ewtn.png"
+  },
+  {
+    "number": "22.1",
+    "name": "El Garage HD",
+    "logo": "logos/el-garage-hd.png"
+  },
+  {
+    "number": "22.2",
+    "name": "DISCOVERY TURBO HD",
+    "logo": "logos/discovery-turbo-hd.png"
+  }
+]

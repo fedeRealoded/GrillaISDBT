@@ -67,32 +67,32 @@
   {
     "number": "13.4",
     "name": "Chacra TV",
-    "logo": "logos/chacra-tv.png"
+    "logo": "logos/chacra-ar.png"
   },
   {
     "number": "13.5",
     "name": "Canal Rural",
-    "logo": "logos/canal-rural.png"
+    "logo": "logos/canal-rural-ar.png"
   },
   {
     "number": "14.1",
     "name": "TV Publica HD",
-    "logo": "logos/tv-publica-hd.png"
+    "logo": "logos/television-publica-ar.png"
   },
   {
     "number": "14.2",
     "name": "Magazine",
-    "logo": "logos/magazine.png"
+    "logo": "logos/magazine-ar.png"
   },
   {
     "number": "14.3",
     "name": "Metro",
-    "logo": "logos/metro.png"
+    "logo": "logos/metro-ar.png"
   },
   {
     "number": "14.4",
     "name": "Canal 26 HD",
-    "logo": "logos/canal-26-hd.png"
+    "logo": "logos/canal-26-ar.png"
   },
   {
     "number": "14.5",
@@ -102,57 +102,57 @@
   {
     "number": "14.6",
     "name": "ARGENTINISIMA HD",
-    "logo": "logos/argentinisima-hd.png"
+    "logo": "logos/argentinisima-ar.png"
   },
   {
     "number": "20.1",
     "name": "ESPN HD",
-    "logo": "logos/espn-hd.png"
+    "logo": "logos/espn-ar.png"
   },
   {
     "number": "20.2",
     "name": "ESPN 2 HD",
-    "logo": "logos/espn-2-hd.png"
+    "logo": "logos/espn-2-ar.png"
   },
   {
     "number": "20.3",
     "name": "ESPN 3 HD",
-    "logo": "logos/espn-3-hd.png"
+    "logo": "logos/espn-3-ar.png"
   },
   {
     "number": "20.4",
     "name": "ESPN 4 HD",
-    "logo": "logos/espn-4-hd.png"
+    "logo": "logos/espn-4-ar.png"
   },
   {
     "number": "21.1",
     "name": "Fox Sports HD",
-    "logo": "logos/fox-sports-hd.png"
+    "logo": "logos/fox-sports-ar.png"
   },
   {
     "number": "21.2",
     "name": "Fox Sports 2 HD",
-    "logo": "logos/fox-sports-2-hd.png"
+    "logo": "logos/fox-sports-2-ar.png"
   },
   {
     "number": "21.3",
     "name": "Fox Sports 3 HD",
-    "logo": "logos/fox-sports-3-hd.png"
+    "logo": "logos/fox-sports-3-ar.png"
   },
   {
     "number": "21.4",
     "name": "TYC SPORTS HD",
-    "logo": "logos/tyc-sports-hd.png"
+    "logo": "logos/tyc-sports-ar.png"
   },
   {
     "number": "22.1",
     "name": "El Garage HD",
-    "logo": "logos/el-garage-hd.png"
+    "logo": "logos/el-garage-ar.png"
   },
   {
     "number": "22.2",
     "name": "DISCOVERY TURBO HD",
-    "logo": "logos/discovery-turbo-hd.png"
+    "logo": "logos/discovery-turbo-ar.png"
   },
   {
     "number": "23.1",
@@ -162,33 +162,33 @@
   {
     "number": "23.2",
     "name": "DEPORTV HD",
-    "logo": "logos/deportv-hd.png"
+    "logo": "logos/deportv-ar.png"
   },
   {
     "number": "23.3",
     "name": "MTV Live HD",
-    "logo": "logos/mtv-live-hd.png"
+    "logo": "logos/mtv-live-ar.png"
   },
   {
     "number": "23.4",
     "name": "Quiero Musica HD",
-    "logo": "logos/quiero-musica-hd.png"
+    "logo": "logos/quiero-musica-ar.png"
   },
   {
     "number": "23.5",
     "name": "Allegro HD",
-    "logo": "logos/allegro-hd.png"
+    "logo": "logos/allegro-ar.png"
   },
   
   {
     "number": "30.1",
     "name": "Disney HD",
-    "logo": "logos/disney-hd.png"
+    "logo": "logos/disney-ar.png"
   },
   {
     "number": "30.2",
     "name": "Cartoon Network HD",
-    "logo": "logos/cartoon-network-hd.png"
+    "logo": "logos/cartoon-network-ar.png"
   },
   {
     "number": "30.3",
@@ -198,167 +198,167 @@
   {
     "number": "30.4",
     "name": "Nick Jr HD",
-    "logo": "logos/nick-jr-hd.png"
+    "logo": "logos/nick-jr-ar.png"
   },
   {
     "number": "30.5",
     "name": "Nickelodeon HD",
-    "logo": "logos/nickelodeon-hd.png"
+    "logo": "logos/nickelodeon-ar.png"
   },
   {
     "number": "30.6",
     "name": "DISCOVERY KIDS HD",
-    "logo": "logos/discovery-kids-hd.png"
+    "logo": "logos/discovery-kids-ar.png"
   },
   {
     "number": "40.1",
     "name": "TNT Series HD",
-    "logo": "logos/tnt-series-hd.png"
+    "logo": "logos/tnt-series-ar.png"
   },
   {
     "number": "40.2",
     "name": "TNT HD",
-    "logo": "logos/tnt-hd.png"
+    "logo": "logos/tnt-ar.png"
   },
   {
     "number": "40.3",
     "name": "Star Channel HD",
-    "logo": "logos/star-channel-hd.png"
+    "logo": "logos/star-channel-ar.png"
   },
   {
     "number": "40.4",
     "name": "Sony HD",
-    "logo": "logos/sony-hd.png"
+    "logo": "logos/sony-ar.png"
   },
   {
     "number": "40.5",
     "name": "Warner HD",
-    "logo": "logos/warner-hd.png"
+    "logo": "logos/warner-ar.png"
   },
   {
     "number": "41.1",
     "name": "Universal Channel HD",
-    "logo": "logos/universal-channel-hd.png"
+    "logo": "logos/universal-channel-ar.png"
   },
   {
     "number": "41.2",
     "name": "Studio Universal HD",
-    "logo": "logos/studio-universal-hd.png"
+    "logo": "logos/studio-universal-ar.png"
   },
   {
     "number": "41.3",
     "name": "Cine Premium HD",
-    "logo": "logos/cine-premium-hd.png"
+    "logo": "logos/cine-premium-ar.png"
   },
   {
     "number": "41.4",
     "name": "Paramount HD",
-    "logo": "logos/paramount-hd.png"
+    "logo": "logos/paramount-ar.png"
   },
   {
     "number": "41.5",
     "name": "AXN HD",
-    "logo": "logos/axn-hd.png"
+    "logo": "logos/axn-ar.png"
   },
   {
     "number": "41.6",
     "name": "Cinemax HD",
-    "logo": "logos/cinemax-hd.png"
+    "logo": "logos/cinemax-ar.png"
   },
   {
     "number": "42.1",
     "name": "Cinecanal HD",
-    "logo": "logos/cinecanal-hd.png"
+    "logo": "logos/cinecanal-ar.png"
   },
   {
     "number": "42.2",
     "name": "Golden Premier HD",
-    "logo": "logos/golden-premier-hd.png"
+    "logo": "logos/golden-premier-ar.png"
   },
   {
     "number": "42.3",
     "name": "Golden Edge HD",
-    "logo": "logos/golden-edge-hd.png"
+    "logo": "logos/golden-edge-ar.png"
   },
   {
     "number": "42.4",
     "name": "AMC HD",
-    "logo": "logos/amc-hd.png"
+    "logo": "logos/amc-ar.png"
   },
   {
     "number": "42.5",
     "name": "DHE HD",
-    "logo": "logos/dhe-hd.png"
+    "logo": "logos/dhe-ar.png"
   },
   {
     "number": "42.6",
     "name": "Europa Europa HD",
-    "logo": "logos/europa-europa-hd.png"
+    "logo": "logos/europa-europa-ar.png"
   },
   {
     "number": "43.1",
     "name": "Film & Arts HD",
-    "logo": "logos/film-arts-hd.png"
+    "logo": "logos/film-arts-ar.png"
   },
   {
     "number": "43.2",
     "name": "USA NETWORK HD",
-    "logo": "logos/usa-network-hd.png"
+    "logo": "logos/usa-network-ar.png"
   },
   {
     "number": "43.3",
     "name": "Space HD",
-    "logo": "logos/space-hd.png"
+    "logo": "logos/space-ar.png"
   },
   {
     "number": "43.4",
     "name": "COMEDY CENTRAL HD",
-    "logo": "logos/comedy-central-hd.png"
+    "logo": "logos/comedy-central-ar.png"
   },
   {
     "number": "43.5",
     "name": "FX HD",
-    "logo": "logos/fx-hd.png"
+    "logo": "logos/fx-ar.png"
   },
   {
     "number": "43.6",
     "name": "CINE FAMILIAR HD",
-    "logo": "logos/cine-familiar-hd.png"
+    "logo": "logos/cine-familiar-ar.png"
   },
   {
     "number": "50.1",
     "name": "HGTV HD",
-    "logo": "logos/hgtv-hd.png"
+    "logo": "logos/hgtv-ar.png"
   },
   {
     "number": "50.2",
     "name": "E! HD",
-    "logo": "logos/e-hd.png"
+    "logo": "logos/e-ar.png"
   },
   {
     "number": "50.3",
     "name": "A&E HD",
-    "logo": "logos/a-e-hd.png"
+    "logo": "logos/a-e-ar.png"
   },
   {
     "number": "50.4",
     "name": "Gourmet HD",
-    "logo": "logos/gourmet-hd.png"
+    "logo": "logos/gourmet-ar.png"
   },
   {
     "number": "50.5",
     "name": "Food Network HD",
-    "logo": "logos/food-network-hd.png"
+    "logo": "logos/food-network-ar.png"
   },
   {
     "number": "50.6",
     "name": "Mas chic HD",
-    "logo": "logos/mas-chic-hd.png"
+    "logo": "logos/mas-chic-ar.png"
   },
   {
     "number": "50.7",
     "name": "Home & Health HD",
-    "logo": "logos/home-health-hd.png"
+    "logo": "logos/home-health-ar.png"
   },
   {
     "number": "50.8",
@@ -368,52 +368,52 @@
   {
     "number": "60.1",
     "name": "Animal Planet HD",
-    "logo": "logos/animal-planet-hd.png"
+    "logo": "logos/animal-planet-ar.png"
   },
   {
     "number": "60.2",
     "name": "Nat Geo HD",
-    "logo": "logos/nat-geo-hd.png"
+    "logo": "logos/nat-geo-ar.png"
   },
   {
     "number": "60.3",
     "name": "Discovery Channel HD",
-    "logo": "logos/discovery-channel-hd.png"
+    "logo": "logos/discovery-channel-ar.png"
   },
   {
     "number": "60.4",
     "name": "DISCOVERY SCIENCE HD",
-    "logo": "logos/discovery-science-hd.png"
+    "logo": "logos/discovery-science-ar.png"
   },
   {
     "number": "61.1",
     "name": "DISCOVERY THEATER HD",
-    "logo": "logos/discovery-theater-hd.png"
+    "logo": "logos/discovery-theater-ar.png"
   },
   {
     "number": "61.2",
     "name": "DISCOVERY WORLD HD",
-    "logo": "logos/discovery-world-hd.png"
+    "logo": "logos/discovery-world-ar.png"
   },
   {
     "number": "61.3",
     "name": "History HD",
-    "logo": "logos/history-hd.png"
+    "logo": "logos/history-ar.png"
   },
   {
     "number": "61.4",
     "name": "History 2 HD",
-    "logo": "logos/history-2-hd.png"
+    "logo": "logos/history-2-ar.png"
   },
   {
     "number": "61.5",
     "name": "Sun Channel HD",
-    "logo": "logos/sun-channel-hd.png"
+    "logo": "logos/sun-channel-ar.png"
   },
   {
     "number": "61.6",
     "name": "Love Nature HD",
-    "logo": "logos/love-nature-hd.png"
+    "logo": "logos/love-nature-ar.png"
   },
   {
     "number": "44.1",
@@ -428,7 +428,7 @@
   {
     "number": "44.3",
     "name": "TVE HD",
-    "logo": "logos/tve-hd.png"
+    "logo": "logos/tve-ar.png"
   },
   {
     "number": "70.1",

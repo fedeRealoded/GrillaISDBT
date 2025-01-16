@@ -1,4 +1,4 @@
-# GrillaISDBT
+# Grilla Basica HD
 
 📺 Instructivo para sintonizar la Grilla Basica HD (TV Digital ISDB-T por cable) 🌐
 

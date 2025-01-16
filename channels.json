@@ -50,6 +50,31 @@
     "logo": "logos/canal-13-hd.png"
   },
   {
+    "number": "13.1",
+    "name": "CANAL 8 CBA",
+    "logo": "logos/canal-8-cba.png"
+  },
+  {
+    "number": "13.2",
+    "name": "CANAL 10 CBA",
+    "logo": "logos/canal-10-cba.png"
+  },
+  {
+    "number": "13.3",
+    "name": "CANAL 12 CBA",
+    "logo": "logos/canal-12-cba.png"
+  },
+  {
+    "number": "13.4",
+    "name": "Chacra TV",
+    "logo": "logos/chacra-tv.png"
+  },
+  {
+    "number": "13.5",
+    "name": "Canal Rural",
+    "logo": "logos/canal-rural.png"
+  },
+  {
     "number": "14.1",
     "name": "TV Publica HD",
     "logo": "logos/tv-publica-hd.png"
@@ -119,6 +144,42 @@
     "name": "TYC SPORTS HD",
     "logo": "logos/tyc-sports-hd.png"
   },
+  {
+    "number": "22.1",
+    "name": "El Garage HD",
+    "logo": "logos/el-garage-hd.png"
+  },
+  {
+    "number": "22.2",
+    "name": "DISCOVERY TURBO HD",
+    "logo": "logos/discovery-turbo-hd.png"
+  },
+  {
+    "number": "23.1",
+    "name": "America Sports",
+    "logo": "logos/america-sports.png"
+  },
+  {
+    "number": "23.2",
+    "name": "DEPORTV HD",
+    "logo": "logos/deportv-hd.png"
+  },
+  {
+    "number": "23.3",
+    "name": "MTV Live HD",
+    "logo": "logos/mtv-live-hd.png"
+  },
+  {
+    "number": "23.4",
+    "name": "Quiero Musica HD",
+    "logo": "logos/quiero-musica-hd.png"
+  },
+  {
+    "number": "23.5",
+    "name": "Allegro HD",
+    "logo": "logos/allegro-hd.png"
+  },
+  
   {
     "number": "30.1",
     "name": "Disney HD",
@@ -355,56 +416,6 @@
     "logo": "logos/love-nature-hd.png"
   },
   {
-    "number": "23.1",
-    "name": "America Sports",
-    "logo": "logos/america-sports.png"
-  },
-  {
-    "number": "23.2",
-    "name": "DEPORTV HD",
-    "logo": "logos/deportv-hd.png"
-  },
-  {
-    "number": "23.3",
-    "name": "MTV Live HD",
-    "logo": "logos/mtv-live-hd.png"
-  },
-  {
-    "number": "23.4",
-    "name": "Quiero Musica HD",
-    "logo": "logos/quiero-musica-hd.png"
-  },
-  {
-    "number": "23.5",
-    "name": "Allegro HD",
-    "logo": "logos/allegro-hd.png"
-  },
-  {
-    "number": "13.1",
-    "name": "CANAL 8 CBA",
-    "logo": "logos/canal-8-cba.png"
-  },
-  {
-    "number": "13.2",
-    "name": "CANAL 10 CBA",
-    "logo": "logos/canal-10-cba.png"
-  },
-  {
-    "number": "13.3",
-    "name": "CANAL 12 CBA",
-    "logo": "logos/canal-12-cba.png"
-  },
-  {
-    "number": "13.4",
-    "name": "Chacra TV",
-    "logo": "logos/chacra-tv.png"
-  },
-  {
-    "number": "13.5",
-    "name": "Canal Rural",
-    "logo": "logos/canal-rural.png"
-  },
-  {
     "number": "44.1",
     "name": "Volver",
     "logo": "logos/volver.png"
@@ -423,15 +434,5 @@
     "number": "70.1",
     "name": "EWTN",
     "logo": "logos/ewtn.png"
-  },
-  {
-    "number": "22.1",
-    "name": "El Garage HD",
-    "logo": "logos/el-garage-hd.png"
-  },
-  {
-    "number": "22.2",
-    "name": "DISCOVERY TURBO HD",
-    "logo": "logos/discovery-turbo-hd.png"
   }
 ]

@@ -1,4 +1,4 @@
-# Sintonización Grilla Básica HD
+# Sintonización COYSPU - Grilla Básica HD 
 
 📺 Instructivo para sintonizar la Grilla Basica HD (TV Digital ISDB-T por cable) 🌐
 
